@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("task 4 skate away sales"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8161f8c3faa7616b26f3e8be6c082ed73f5c7194"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("task 4 skate away sales"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("task 4 skate away sales"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

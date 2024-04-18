@@ -117,4 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="TextBox1.Text" xml:space="preserve">
+    <value>Hey! Please delete this and customise this to make it not look too similar to each other. You could like change colours of the background, the font, interface, etc. Also make sure that you have your internal documentation properly added and remote the .gitignore, readme.md and license.md files. . Thanks
+</value>
+  </data>
 </root>

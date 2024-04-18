@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Label1 = New Label()
         Label2 = New Label()
         txtFirst = New TextBox()
@@ -30,6 +31,7 @@ Partial Class Form1
         txtLast = New TextBox()
         txtAddress = New TextBox()
         btnNext = New Button()
+        TextBox1 = New TextBox()
         SuspendLayout()
         ' 
         ' Label1
@@ -105,11 +107,21 @@ Partial Class Form1
         btnNext.Text = "Confirm Customer Purchase"
         btnNext.UseVisualStyleBackColor = True
         ' 
+        ' TextBox1
+        ' 
+        TextBox1.Location = New Point(137, 175)
+        TextBox1.Multiline = True
+        TextBox1.Name = "TextBox1"
+        TextBox1.Size = New Size(506, 169)
+        TextBox1.TabIndex = 8
+        TextBox1.Text = resources.GetString("TextBox1.Text")
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(727, 450)
+        Controls.Add(TextBox1)
         Controls.Add(btnNext)
         Controls.Add(txtAddress)
         Controls.Add(txtLast)
@@ -132,5 +144,6 @@ Partial Class Form1
     Friend WithEvents txtLast As TextBox
     Friend WithEvents txtAddress As TextBox
     Friend WithEvents btnNext As Button
+    Friend WithEvents TextBox1 As TextBox
 
 End Class
