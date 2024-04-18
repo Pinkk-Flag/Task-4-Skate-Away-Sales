@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|solutionrelative:task 4 skate away sales\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|c:\\users\\dario gerald\\downloads\\visual studio\\visual basic\\task 4 skate away sales\\task 4 skate away sales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|solutionrelative:task 4 skate away sales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|c:\\users\\dario gerald\\downloads\\visual studio\\visual basic\\task 4 skate away sales\\task 4 skate away sales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|solutionrelative:task 4 skate away sales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|solutionrelative:task 4 skate away sales\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|solutionrelative:task 4 skate away sales\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{850E4EA1-DB90-4F34-B6AB-D179CEABCCA2}|task 4 skate away sales\\task 4 skate away sales.vbproj|solutionrelative:task 4 skate away sales\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form2.vb",
+              "RelativeDocumentMoniker": "task 4 skate away sales\\Form2.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form2.vb",
+              "RelativeToolTip": "task 4 skate away sales\\Form2.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T22:55:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form1.vb",
+              "RelativeDocumentMoniker": "task 4 skate away sales\\Form1.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form1.vb",
+              "RelativeToolTip": "task 4 skate away sales\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T22:46:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form3.vb",
+              "RelativeDocumentMoniker": "task 4 skate away sales\\Form3.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form3.vb",
+              "RelativeToolTip": "task 4 skate away sales\\Form3.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T23:05:19.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form3.vb",
+              "RelativeDocumentMoniker": "task 4 skate away sales\\Form3.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form3.vb [Design]",
+              "RelativeToolTip": "task 4 skate away sales\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T23:03:46.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form1.vb",
+              "RelativeDocumentMoniker": "task 4 skate away sales\\Form1.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form1.vb [Design]",
+              "RelativeToolTip": "task 4 skate away sales\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T22:46:36.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form2.vb",
+              "RelativeDocumentMoniker": "task 4 skate away sales\\Form2.vb",
+              "ToolTip": "C:\\Users\\Dario Gerald\\Downloads\\Visual Studio\\Visual Basic\\task 4 skate away sales\\task 4 skate away sales\\Form2.vb [Design]",
+              "RelativeToolTip": "task 4 skate away sales\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T22:55:07.906Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

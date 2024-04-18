@@ -1,0 +1,19 @@
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\bin\Debug\net8.0-windows\task 4 skate away sales.exe
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\bin\Debug\net8.0-windows\task 4 skate away sales.deps.json
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\bin\Debug\net8.0-windows\task 4 skate away sales.runtimeconfig.json
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\bin\Debug\net8.0-windows\task 4 skate away sales.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\bin\Debug\net8.0-windows\task 4 skate away sales.pdb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task_4_skate_away_sales.Form1.resources
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task_4_skate_away_sales.Form2.resources
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.vbproj.GenerateResource.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.AssemblyInfoInputs.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.AssemblyInfo.vb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.vbproj.CoreCompileInputs.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\refint\task 4 skate away sales.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.pdb
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task 4 skate away sales.genruntimeconfig.cache
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\ref\task 4 skate away sales.dll
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task_4_skate_away_sales.Form3.resources
+C:\Users\Dario Gerald\Downloads\Visual Studio\Visual Basic\task 4 skate away sales\task 4 skate away sales\obj\Debug\net8.0-windows\task_4_skate_away_sales.Resources.resources
